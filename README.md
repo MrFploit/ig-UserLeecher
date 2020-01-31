@@ -13,7 +13,7 @@ pip install getpass
 # Download & run
 <pre><code>
 git clone https://github.com/it4min/ig-UserLeechee
-cd ig-UserLeechee
+cd ig-UserLeecher
 python3 leecher.py
 </code></pre>
 
