@@ -14,7 +14,7 @@ pip install getpass
 <pre><code>
 git clone https://github.com/it4min/ig-UserLeecher
 cd ig-UserLeecher
-python3 leecher.py
+python3 Leecher.py
 </code></pre>
 
 # Code by: it4min
