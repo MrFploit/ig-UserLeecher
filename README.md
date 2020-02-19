@@ -19,4 +19,4 @@ python3 Leecher.py
 
 # Code by: it4min
 
-<a href="https://t.me/LinuxH">Talagram Channel</a>
+<a href="https://t.me/LinuxArmy">Talagram Channel</a>
