@@ -1,6 +1,6 @@
 # Code By it4min
 # t.me/it4min
-# t.me/LinuxH
+# t.me/LinuxArmy
 from instabot import Bot
 import os, getpass
 
@@ -24,7 +24,7 @@ logo = '''
             ──▀█████████████████████████▀──
 \033[0;34m
            +---  Instagram User Leecher ---+ \033[0;32m
-           t.me/LinuxH
+           t.me/LinuxArmy
            Code By it4min
   ### Login ###
 '''
