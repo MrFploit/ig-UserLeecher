@@ -5,7 +5,7 @@ Extract Instagram users
 
 # prerequisites
 <pre><code>
-pkg install python3
+apt install python3
 pip install -U instabot
 pip install getpass
 </code></pre>
